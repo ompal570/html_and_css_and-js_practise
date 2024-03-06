@@ -1,0 +1,27 @@
+
+h1{
+background-color:red !important; 
+}
+p{
+color:gray;
+border:1px groove blue;
+}
+#p1{
+color:yellow;
+background:green;
+}
+#head{
+background:red;
+color:white;
+border:2px solid black;
+border-radius:20px;
+}
+table{
+	border:1px solid black;
+}
+th{
+	border:1px solid black;
+}
+td{
+	border:1px solid black;
+}
